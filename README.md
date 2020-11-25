@@ -1,1 +1,3 @@
 # SimonGame
+
+Memory training game.
